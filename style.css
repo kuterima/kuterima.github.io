@@ -7,8 +7,9 @@
 }
 
 .coming {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
     margin: 0;
-    background: yellow;
     position: absolute;
     top: 50%;
     left: 50%;
